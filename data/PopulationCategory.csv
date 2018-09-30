@@ -1,0 +1,8 @@
+PopulationCategoryID,PopulationCategoryDescription,DisplayOrder
+1,up to 990,000,1
+2,990,001 to 1,860,000,2
+3,1,860,001 to 3,580,000,3
+4,3,580,001 to 4,780,000,4
+5,4,780,001 to 6,490,000,5
+6,6,490,001 to 9,890,000,6
+7,9,890,001 to highest,7
